@@ -1,7 +1,7 @@
 # RSA Cryptotrojan
 
 #### Disclaimer
-###### This project is for educational purposes only. I have used a ~40 bit rsa encryption schema to demonstrate how a kleptographic backdoor can be put in RSA. It is not suitable for any practical applications in its current form. Also it somehow fails to obtain the private key back about ~20% of the times and I dont know why. If you do figure it out let me know. I AM NOT RESPONSIBLE FOR HOW YOU USE THIS PIECE OF SOFTWARE.
+###### This project is for educational purposes only. I have used a ~40 bit rsa encryption schema to demonstrate how a kleptographic backdoor can be put in RSA. It is not suitable for any practical applications in its current form. Also it somehow fails to obtain the private key back about ~20% of the times and I dont know why. If you do figure it out let me know. <br> I AM NOT RESPONSIBLE FOR HOW YOU USE THIS PIECE OF SOFTWARE.
 
 ## Installation
 - git clone https://github.com/0x-Apollyon/RSA-Backdoor.git
