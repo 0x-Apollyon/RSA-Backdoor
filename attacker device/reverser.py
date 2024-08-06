@@ -38,7 +38,6 @@ def calc_secrets(vp):
     
     try:
         D = pow(victim_public.e , - 1 ,phi_n)
-        print(D)
         return D
     except ValueError:
         print("Error calculating private key ...")

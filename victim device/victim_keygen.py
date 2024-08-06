@@ -60,7 +60,6 @@ while not created:
             f.write(private_backdoored)
 
         print("The backdoored victims key has been saved to victim_public.pem [PUBLIC KEY] and victim_private.pem [PRIVATE KEY]")
-        print((n , exponent, d,))
     except:
         print("Error while generating key. Retrying ...")
         pass
